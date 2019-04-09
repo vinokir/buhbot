@@ -1,0 +1,14 @@
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\bin\Debug\netcoreapp2.1\BuhBot.deps.json
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\bin\Debug\netcoreapp2.1\BuhBot.runtimeconfig.json
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\bin\Debug\netcoreapp2.1\BuhBot.runtimeconfig.dev.json
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\bin\Debug\netcoreapp2.1\BuhBot.dll
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\obj\Debug\netcoreapp2.1\BuhBot.csprojAssemblyReference.cache
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\obj\Debug\netcoreapp2.1\BuhBot.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\obj\Debug\netcoreapp2.1\BuhBot.RazorAssemblyInfo.cache
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\obj\Debug\netcoreapp2.1\BuhBot.RazorAssemblyInfo.cs
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\obj\Debug\netcoreapp2.1\BuhBot.AssemblyInfoInputs.cache
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\obj\Debug\netcoreapp2.1\BuhBot.AssemblyInfo.cs
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\obj\Debug\netcoreapp2.1\BuhBot.RazorTargetAssemblyInfo.cache
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\bin\Debug\netcoreapp2.1\BuhBot.pdb
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\obj\Debug\netcoreapp2.1\BuhBot.dll
+C:\Users\Кирилл\source\repos\BuhBot\BuhBot\obj\Debug\netcoreapp2.1\BuhBot.pdb
